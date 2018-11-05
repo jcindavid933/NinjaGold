@@ -1,0 +1,52 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+  width: 930px;
+  height: auto;
+}
+.total_gold_container{
+  display: block;
+}
+.gold{
+  display: inline-block;
+}
+.total_gold{
+  display: inline-block;
+  border: 2px solid black;
+  margin-bottom: 15px;
+  width: 200px;
+  height: 30px;
+  margin-left: 10px;
+}
+.case_container{
+  display: inline-block;
+  border: 2px solid black;
+  width: 200px;
+  height: 150px;
+  margin: 10px;
+}
+.case_container h2{
+  text-align: center
+}
+.case_container p{
+  text-align: center
+}
+.button {
+  margin-top: 50px;
+  box-shadow: 2px 4px black;
+  margin-left: 60px;
+}
+.red{
+  color: red;
+}
+.green{
+  color: green;
+}
+.activities{
+  width: 1000px;
+  height: auto;
+  border: 3px solid black;
+  overflow: hidden;
+}
